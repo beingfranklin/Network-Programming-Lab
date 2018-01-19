@@ -1,8 +1,7 @@
 import java.lang.*;
 import java.io.*;
 import java.util.*;
-
-public class palin
+class palin
 {
 	public static void main( String args[])
 	{
