@@ -21,6 +21,5 @@ int main()
      
     //detach from shared memory 
     shmdt(str);
- 
     return 0;
 }
