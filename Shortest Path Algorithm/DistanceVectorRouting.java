@@ -54,9 +54,9 @@ public class DistanceVectorRouting
  {
   System.out.println();
   init_tables();
-System.out.println(message);
-print_tables();
- update_tables();
+  System.out.println(message);
+  print_tables();
+  update_tables();
   System.out.println("Final Routing Table ");
   print_tables();
   System.out.println();
